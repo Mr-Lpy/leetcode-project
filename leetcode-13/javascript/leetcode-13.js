@@ -30,4 +30,3 @@ var romanToInt = function (s) {
 };
 
 let sum = romanToInt('MCMXCIV');
-console.log(sum);
